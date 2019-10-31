@@ -1,9 +1,9 @@
 # HackerRank Whiteboard Challenges
 
-## Self driven challenges (Intructions)
+## Self driven challenges (Instructions)
 
 On some sessions we will challenge you to face some *whiteboard* challenges on your own time and at your own pace. 
-The goal of these exercises is to help you and and us detect how fluent you are at these type of problems (most of us aren't unless we practice a lot). 
+The goal of these exercises is to help both you and and us to detect your fluency at these type of problems (most of us aren't unless we practice a lot).
 
 For each session we ask that you solve two easy problems as a warm up and then one to two more difficult ones. 
 For now the most difficult will be of medium difficulty. This is for two reasons, first, the goal of this exercise is to help you feel more comfortable while facing challenges, not to make you an expert; and second, this way it's easier to detect your strengths and weaknesses so we can orientate you better.
